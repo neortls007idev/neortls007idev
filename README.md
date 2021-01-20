@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Visits Badge](https://badges.pufler.dev/visits/neortls007idev/neortls007idev)](https://github.com/neortls007idev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rguptagamedev/)
-[![Portfolio Badge](https://img.shields.io/badge/Potfolio-Website-informational)(https://www.rahulguptagamedev.com/)]
+[![Portfolio Website Badge](https://img.shields.io/badge/Potfolio-Website-informational)](https://www.rahulguptagamedev.com/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/GameDevRahul?style=social)](https://twitter.com/GameDevRahul)
 [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/5494674?style=plastic)](https://stackoverflow.com/users/5494674/neor)
 
