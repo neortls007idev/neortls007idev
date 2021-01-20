@@ -13,14 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Rahul's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+![Rahul's GitHub Banner](./assets/GitHubHeader.png)](link)
+## 💼 Skills
 -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/neortls007idev/neortls007idev)](https://github.com/neortls007idev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rguptagamedev/)
+[![Portfolio Badge](https://img.shields.io/badge/Potfolio-Website-informational)(https://www.rahulguptagamedev.com/)]
 [![Twitter Badge](https://img.shields.io/twitter/follow/GameDevRahul?style=social)](https://twitter.com/GameDevRahul)
 [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/5494674?style=plastic)](https://stackoverflow.com/users/5494674/neor)
 
+Hey there 👋
+
+I’m Rahul, a Game Engine and Gameplay programmer. I make it my mission to develop juicy games with satisfying user experience.
+
+Want to know more about me? [Check out my portfolio.](https://www.rahulguptagamedev.com/)
 
 ## 📌 Pinned Repositories
 
@@ -51,5 +58,3 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-## 💼 Skills
