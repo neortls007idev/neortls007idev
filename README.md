@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Rahul's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![LinkedIn Badge]
+[![Stackoverflow Badge]https://img.shields.io/stackexchange/stackoverflow/r/5494674?style=plastic](stackoverflow.com/users/5494674/neor)
