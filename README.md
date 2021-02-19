@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Hey there 👋
 
-I’m Rahul, a Graphics and Engine Programmer. I make it my mission to develop performanec optimized rendering engine and scalable engine systems for the devlopment of juicy games, for satisfying user experience.
+I’m Rahul, a Graphics and Engine Programmer. I make it my mission to develop performance optimized rendering engines and scalable engine systems for the devlopment of juicy games, for satisfying user experience.
 
 Want to know more about me? [Check out my portfolio.](https://www.rahulguptagamedev.com/)
 
