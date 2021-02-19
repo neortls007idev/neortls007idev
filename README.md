@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/neortls007idev/neortls007idev)](https://github.com/neortls007idev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rguptagamedev/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rahulguptagamedev/)
 [![Portfolio Website Badge](https://img.shields.io/badge/Potfolio-Website-informational)](https://www.rahulguptagamedev.com/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/GameDevRahul?style=social)](https://twitter.com/GameDevRahul)
 [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/5494674?style=plastic)](https://stackoverflow.com/users/5494674/neor)
 
 Hey there 👋
 
-I’m Rahul, a Game Engine and Gameplay programmer. I make it my mission to develop juicy games with satisfying user experience.
+I’m Rahul, a Graphics and Engine Programmer. I make it my mission to develop performanec optimized rendering engine and scalable engine systems for the devlopment of juicy games, for satisfying user experience.
 
 Want to know more about me? [Check out my portfolio.](https://www.rahulguptagamedev.com/)
 
